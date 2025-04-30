@@ -17,8 +17,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-source-record.git
-        tag: 0.4.5
-        commit: b588b63bf0037ca9bc6e30859a38341c9fa99ae7
+        tag: 0.4.6
+        commit: 8c01f0a807b5760a33997a6b04e2d2e21405deaf
         x-checker-data:
           type: git
           is-main-source: true
